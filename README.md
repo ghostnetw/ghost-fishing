@@ -1,4 +1,4 @@
-# 🎣 Azotea ghost-fishing 
+# 🎣 Ghost-fishing 
 
 A beautiful QBCore skill-based fishing script designed to work with ox_inventory.
 
@@ -22,7 +22,7 @@ A beautiful QBCore skill-based fishing script designed to work with ox_inventory
    - 🐟 Various fish types
 
 2. 📂 Place in your resources folder
-3. ⚡ Add to your server.cfg: `ensure azotea-fishing`
+3. ⚡ Add to your server.cfg: `ensure ghost-fishing`
 
 ## 💡 Usage
 1. Buy fishing equipment from the shop
@@ -32,8 +32,7 @@ A beautiful QBCore skill-based fishing script designed to work with ox_inventory
 5. Sell your catch at the fish market!
 
 ## 🙌 Credits
-Based on wasabi_fishing by wasabirobby
-Modified and enhanced by Azotea Development
+Modified and enhanced by Ghostnetw Development
 
 ## 🤝 Support
 For support, join our Discord community!
