@@ -12,4 +12,4 @@ client_scripts { 'client/*.lua' }
 
 server_scripts { 'server/*.lua' }
 
-dependencies { 'ox_lib', 'qb-core', 'ox_inventory' }
+dependencies { 'ox_lib', 'qb-core', 'ox_inventory', 'qb-skillbar' }
